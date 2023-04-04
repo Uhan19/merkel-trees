@@ -1,0 +1,22 @@
+{
+  "name": "merkel-trees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "merklepatricia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uhan19/merkel-trees.git"
+  },
+  "author": "uhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Uhan19/merkel-trees/issues"
+  },
+  "homepage": "https://github.com/Uhan19/merkel-trees#readme",
+  "devDependencies": {
+    "merkle-patricia-tree": "^4.2.4"
+  }
+}
